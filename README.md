@@ -2,6 +2,6 @@
 ### Hi there 👋
 
 - :orange_book: Focusing on backend develop
-- 🌱 I’m currently learning Java && C++
+- 🌱 I’m currently learning C++ && Go
 - :hammer: My Website: [tomytang331.github.io](https://tomytang331.github.io)
 - 📫 How to reach me: 573945715@qq.com
